@@ -37,5 +37,7 @@
                 "Landlord": "HipsterJazzbo\\Landlord\\Facades\\Landlord"
             }
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
 }
